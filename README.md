@@ -94,4 +94,4 @@ SQL (exploratory analysis) | Power BI (dashboard) | Excel (data cleaning)
 
 ## Author
 **Mahmoud Algoul** — Data Analyst
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) | [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-algoul-0306b2249/) | [GitHub](https://github.com/YOUR-USERNAME)
